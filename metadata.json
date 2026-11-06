@@ -1,0 +1,6 @@
+{
+  "name": "SURPRIZ — Digital Gifting & Keepsake Platform",
+  "description": "Turn your favourite moments into an unforgettable digital birthday surprise with interactive unwrapping, nostalgic polaroids, handwritten letters, musical soundscapes, and cake finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
